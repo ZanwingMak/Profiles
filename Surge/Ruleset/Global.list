@@ -72,8 +72,12 @@ IP-CIDR,103.2.30.0/23,no-resolve
 IP-CIDR,125.209.208.0/20,no-resolve
 IP-CIDR,147.92.128.0/17,no-resolve
 IP-CIDR,203.104.144.0/21,no-resolve
+# > GITHUB
+DOMAIN-KEYWORD,github
 # > 品葱
 DOMAIN-SUFFIX,pincong.rocks
+# > 膜乎
+DOMAIN-SUFFIX,mohu.rocks
 # > Pixiv
 DOMAIN-SUFFIX,pinimg.com
 DOMAIN-SUFFIX,pixiv.net
@@ -81,6 +85,18 @@ DOMAIN-SUFFIX,pixiv.net
 DOMAIN-SUFFIX,tumblr.com
 # > NicoNico
 DOMAIN-SUFFIX,nicovideo.jp
+# > hltv
+DOMAIN-SUFFIX,hltv.org
+# > 梯子官网
+DOMAIN-SUFFIX,dlercloud.com
+DOMAIN-SUFFIX,renzhe.cloud
+DOMAIN-SUFFIX,ark.to
+DOMAIN-SUFFIX,nexitallysafe.com
+DOMAIN-SUFFIX,cylinkpro.bar
+DOMAIN-SUFFIX,xn--i2ru8q2qg.com
+DOMAIN-SUFFIX,yjc-i.xyz
+# > 博客-毒药
+DOMAIN-SUFFIX,duyaoss.com
 # > Other
 DOMAIN-SUFFIX,4shared.com
 DOMAIN-SUFFIX,520cc.cc
@@ -384,7 +400,6 @@ DOMAIN-SUFFIX,zb.com
 DOMAIN-SUFFIX,zello.com
 DOMAIN-SUFFIX,zeronet.io
 DOMAIN-SUFFIX,zoom.us
-DOMAIN-KEYWORD,github
 DOMAIN-KEYWORD,jav
 DOMAIN-KEYWORD,pinterest
 DOMAIN-KEYWORD,porn
