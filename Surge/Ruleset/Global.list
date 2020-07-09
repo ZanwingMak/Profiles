@@ -99,6 +99,10 @@ DOMAIN-SUFFIX,yjc-i.xyz
 DOMAIN-SUFFIX,duyaoss.com
 # > 配置托管订阅
 DOMAIN-SUFFIX,bianyuan.xyz
+# > 域名服务商
+DOMAIN-SUFFIX,gandi.net
+# > 邮箱
+DOMAIN-SUFFIX,protonmail.com
 # > Other
 DOMAIN-SUFFIX,4shared.com
 DOMAIN-SUFFIX,520cc.cc
