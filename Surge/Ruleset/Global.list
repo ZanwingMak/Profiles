@@ -81,6 +81,18 @@ DOMAIN-SUFFIX,mohu.rocks
 # > Pixiv
 DOMAIN-SUFFIX,pinimg.com
 DOMAIN-SUFFIX,pixiv.net
+# > donmai
+DOMAIN-SUFFIX,donmai.us
+# > stackoverflow
+DOMAIN-SUFFIX,stackoverflow.com
+# > 4chan
+DOMAIN-SUFFIX,4chan.org
+# > jsfiddle
+DOMAIN-SUFFIX,jsfiddle.net
+# > v2ex
+DOMAIN-SUFFIX,v2ex.com
+# > ptt
+DOMAIN-SUFFIX,ptt.cc
 # > 汤不热
 DOMAIN-SUFFIX,tumblr.com
 # > NicoNico
