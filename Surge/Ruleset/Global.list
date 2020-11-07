@@ -120,7 +120,7 @@ DOMAIN,api.steampowered.com
 DOMAIN,store.steampowered.com
 DOMAIN,akamaihd.net
 DOMAIN-SUFFIX,steamcommunity.com
-# > steam
+# > pawoo
 DOMAIN,pawoo.net
 # > Other
 DOMAIN-SUFFIX,4shared.com
