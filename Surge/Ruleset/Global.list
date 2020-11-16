@@ -122,6 +122,11 @@ DOMAIN,akamaihd.net
 DOMAIN-SUFFIX,steamcommunity.com
 # > pawoo
 DOMAIN,pawoo.net
+# > Parler
+DOMAIN,parler.com
+DOMAIN,api.parler.com
+DOMAIN-KEYWORD,parler
+USER-AGENT,parler*
 # > Other
 DOMAIN-SUFFIX,4shared.com
 DOMAIN-SUFFIX,520cc.cc
