@@ -1,9 +1,8 @@
-# > YouTube
+# > Youtube
 USER-AGENT,*youtube*
-DOMAIN,youtubei.googleapis.com
+USER-AGENT,YouTube*
 DOMAIN-KEYWORD,youtube
 DOMAIN,yt3.ggpht.com
-DOMAIN-SUFFIX,youtube.com
 DOMAIN-SUFFIX,googlevideo.com
 DOMAIN-SUFFIX,gvt2.com
 DOMAIN-SUFFIX,youtu.be
