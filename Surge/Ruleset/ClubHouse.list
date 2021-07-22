@@ -1,0 +1,7 @@
+# > ClubHouse
+USER-AGENT,PayPal*
+DOMAIN-KEYWORD,clubhouse
+DOMAIN-SUFFIX,clubhouse.com
+DOMAIN-SUFFIX,www.clubhouseapi.com
+DOMAIN-SUFFIX,clubhouse.pubnubapi.com
+DOMAIN-SUFFIX,maintenance.clubhouse.com
