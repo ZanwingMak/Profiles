@@ -127,6 +127,11 @@ DOMAIN,parler.com
 DOMAIN,api.parler.com
 DOMAIN-KEYWORD,parler
 USER-AGENT,parler*
+# > 盖特
+DOMAIN,gettr.com
+DOMAIN,api.gettr.com
+DOMAIN-KEYWORD,gettr
+USER-AGENT,gettr*
 # > Other
 DOMAIN-SUFFIX,4shared.com
 DOMAIN-SUFFIX,520cc.cc
