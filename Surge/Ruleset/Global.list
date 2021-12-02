@@ -121,6 +121,18 @@ DOMAIN,gettr.com
 DOMAIN,api.gettr.com
 DOMAIN-KEYWORD,gettr
 USER-AGENT,gettr*
+# > Reddit
+DOMAIN-SUFFIX,reddit.com
+DOMAIN-SUFFIX,redditmedia.com
+DOMAIN-SUFFIX,redd.it
+USER-AGENT,reddit*
+DOMAIN-SUFFIX,redditlist.com
+# > getchu
+DOMAIN-SUFFIX,getchu.com
+# > rfa
+DOMAIN-SUFFIX,rfa.org
+# > mozilla
+DOMAIN-SUFFIX,mozilla.org
 # > Other
 DOMAIN-SUFFIX,4shared.com
 DOMAIN-SUFFIX,520cc.cc
@@ -340,8 +352,6 @@ DOMAIN-SUFFIX,rakuten.co.jp
 DOMAIN-SUFFIX,readingtimes.com.tw
 DOMAIN-SUFFIX,readmoo.com
 DOMAIN-SUFFIX,redbubble.com
-DOMAIN-SUFFIX,reddit.com
-DOMAIN-SUFFIX,redditmedia.com
 DOMAIN-SUFFIX,resilio.com
 DOMAIN-SUFFIX,reuters.com
 DOMAIN-SUFFIX,reutersmedia.net
@@ -591,7 +601,6 @@ DOMAIN-SUFFIX,myactimes.com
 DOMAIN-SUFFIX,newsblur.com
 DOMAIN-SUFFIX,now.im
 DOMAIN-SUFFIX,nowe.com
-DOMAIN-SUFFIX,redditlist.com
 DOMAIN-SUFFIX,s3.amazonaws.com
 DOMAIN-SUFFIX,signal.org
 DOMAIN-SUFFIX,smartmailcloud.com
