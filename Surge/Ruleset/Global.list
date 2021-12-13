@@ -137,6 +137,12 @@ DOMAIN-SUFFIX,getchu.com
 DOMAIN-SUFFIX,rfa.org
 # > mozilla
 DOMAIN-SUFFIX,mozilla.org
+# > nyaa bt
+DOMAIN-SUFFIX,nyaa.si
+DOMAIN-SUFFIX,nyaa.se
+# > hanime1
+#DOMAIN-SUFFIX,anime1.me
+DOMAIN-SUFFIX,hanime1.me
 # > Other
 DOMAIN-SUFFIX,4shared.com
 DOMAIN-SUFFIX,520cc.cc
