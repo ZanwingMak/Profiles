@@ -143,8 +143,11 @@ DOMAIN-SUFFIX,nyaa.se
 # > hanime1
 #DOMAIN-SUFFIX,anime1.me
 DOMAIN-SUFFIX,hanime1.me
-# > themoviedb
+# > themoviedb (tinyMediaManager需要)
 DOMAIN-SUFFIX,themoviedb.org
+DOMAIN-SUFFIX,tmdb.org
+# > south-plus
+DOMAIN-SUFFIX,south-plus.org
 # > Other
 DOMAIN-SUFFIX,4shared.com
 DOMAIN-SUFFIX,520cc.cc
