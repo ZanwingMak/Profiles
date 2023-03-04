@@ -158,6 +158,17 @@ DOMAIN-SUFFIX,melonbooks.co.jp
 DOMAIN-SUFFIX,mastodon.social
 # > pages 相关
 DOMAIN-SUFFIX,pages.dev
+# > TruthSocial 相关
+DOMAIN-SUFFIX,truthsocial.com
+DOMAIN-KEYWORD,truthsocial
+# > bookoffonline 相关
+DOMAIN-SUFFIX,bookoffonline.co.jp
+# > booth 相关
+DOMAIN-SUFFIX,booth.pm
+# > patreon 相关
+DOMAIN-SUFFIX,patreon.com
+# > fanbox 相关
+DOMAIN-SUFFIX,fanbox.cc
 # > Other
 DOMAIN-SUFFIX,4shared.com
 DOMAIN-SUFFIX,520cc.cc
