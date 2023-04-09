@@ -169,6 +169,8 @@ DOMAIN-SUFFIX,booth.pm
 DOMAIN-SUFFIX,patreon.com
 # > fanbox 相关
 DOMAIN-SUFFIX,fanbox.cc
+# > civitai 相关
+DOMAIN-SUFFIX,civitai.com
 # > Other
 DOMAIN-SUFFIX,4shared.com
 DOMAIN-SUFFIX,520cc.cc
