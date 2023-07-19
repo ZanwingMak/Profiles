@@ -171,6 +171,12 @@ DOMAIN-SUFFIX,patreon.com
 DOMAIN-SUFFIX,fanbox.cc
 # > civitai 相关
 DOMAIN-SUFFIX,civitai.com
+# > 盈透证券
+DOMAIN-SUFFIX,interactivebrokers.com
+DOMAIN-KEYWORD,interactivebrokers
+# > 嘉信理财
+DOMAIN-SUFFIX,schwab.com
+DOMAIN-KEYWORD,schwab
 # > Other
 DOMAIN-SUFFIX,4shared.com
 DOMAIN-SUFFIX,520cc.cc
