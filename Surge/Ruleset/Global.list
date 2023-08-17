@@ -105,7 +105,9 @@ DOMAIN-SUFFIX,duyaoss.com
 # > 配置托管订阅
 DOMAIN-SUFFIX,bianyuan.xyz
 # > 域名服务商
+# > gandi
 DOMAIN-SUFFIX,gandi.net
+DOMAIN-SUFFIX,fastly.net
 # > 邮箱
 DOMAIN-SUFFIX,protonmail.com
 # > steam
@@ -177,6 +179,8 @@ DOMAIN-KEYWORD,interactivebrokers
 # > 嘉信理财
 DOMAIN-SUFFIX,schwab.com
 DOMAIN-KEYWORD,schwab
+# > 数字居民
+DOMAIN-SUFFIX,shuzijumin.com
 # > Other
 DOMAIN-SUFFIX,4shared.com
 DOMAIN-SUFFIX,520cc.cc
