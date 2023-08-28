@@ -184,6 +184,9 @@ DOMAIN-SUFFIX,shuzijumin.com
 # > 2poi代购
 DOMAIN-SUFFIX,2poi.jp
 DOMAIN-SUFFIX,2poi.cc
+# > 动漫花园
+DOMAIN-SUFFIX,dmhy.org
+DOMAIN-KEYWORD,dmhy
 # > Other
 DOMAIN-SUFFIX,4shared.com
 DOMAIN-SUFFIX,520cc.cc
