@@ -152,8 +152,13 @@ DOMAIN-SUFFIX,tmdb.org
 DOMAIN-SUFFIX,south-plus.org
 # > nhentai
 DOMAIN-SUFFIX,nhentai.net
-# > e-hentai
+# > e-hentai/ex-hentai
 DOMAIN-SUFFIX,e-hentai.org
+DOMAIN-SUFFIX,exhentai.org
+DOMAIN-SUFFIX,ehgt.org
+DOMAIN-SUFFIX,forums.e-hentai.org
+DOMAIN-SUFFIX,ehwiki.org
+DOMAIN-SUFFIX,hentaiverse.org
 # > melonbooks
 DOMAIN-SUFFIX,melonbooks.co.jp
 # > mastodon 相关
