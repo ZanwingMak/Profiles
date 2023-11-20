@@ -160,6 +160,7 @@ DOMAIN-SUFFIX,forums.e-hentai.org
 DOMAIN-SUFFIX,ehwiki.org
 DOMAIN-SUFFIX,hentaiverse.org
 IP-CIDR,178.175.129.254/32,no-resolve
+IP-CIDR,172.67.0.127/32,no-resolve
 # > melonbooks
 DOMAIN-SUFFIX,melonbooks.co.jp
 # > mastodon 相关
