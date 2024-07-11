@@ -198,6 +198,10 @@ DOMAIN-SUFFIX,dmhy.org
 DOMAIN-KEYWORD,dmhy
 # > tradingview
 DOMAIN-SUFFIX,tradingview.com
+# > npm
+DOMAIN-SUFFIX,npm.community
+DOMAIN-SUFFIX,npmjs.com
+DOMAIN-SUFFIX,npmjs.org
 # > Other
 DOMAIN-SUFFIX,4shared.com
 DOMAIN-SUFFIX,520cc.cc
