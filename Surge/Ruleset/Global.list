@@ -204,6 +204,7 @@ DOMAIN-SUFFIX,npmjs.com
 DOMAIN-SUFFIX,npmjs.org
 # > docker
 DOMAIN-SUFFIX,docker.com
+DOMAIN-SUFFIX,docker.io
 # > myanimelist
 DOMAIN-SUFFIX,myanimelist.net
 # > Other
