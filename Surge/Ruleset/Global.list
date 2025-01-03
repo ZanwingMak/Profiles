@@ -207,6 +207,8 @@ DOMAIN-SUFFIX,docker.com
 DOMAIN-SUFFIX,docker.io
 # > myanimelist
 DOMAIN-SUFFIX,myanimelist.net
+# > nikan
+DOMAIN-SUFFIX,mikanani.me
 # > Other
 DOMAIN-SUFFIX,4shared.com
 DOMAIN-SUFFIX,520cc.cc
