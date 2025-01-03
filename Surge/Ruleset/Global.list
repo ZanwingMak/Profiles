@@ -202,6 +202,10 @@ DOMAIN-SUFFIX,tradingview.com
 DOMAIN-SUFFIX,npm.community
 DOMAIN-SUFFIX,npmjs.com
 DOMAIN-SUFFIX,npmjs.org
+# > docker
+DOMAIN-SUFFIX,docker.com
+# > myanimelist
+DOMAIN-SUFFIX,myanimelist.net
 # > Other
 DOMAIN-SUFFIX,4shared.com
 DOMAIN-SUFFIX,520cc.cc
