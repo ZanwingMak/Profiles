@@ -214,8 +214,21 @@ DOMAIN-SUFFIX,myanimelist.net
 DOMAIN-SUFFIX,mikanani.me
 # > gork
 DOMAIN-SUFFIX,gork.com
+DOMAIN-SUFFIX,x.ai
 DOMAIN-KEYWORD,gork
 USER-AGENT,gork*
+# > claude
+DOMAIN-KEYWORD,claude
+DOMAIN-SUFFIX,claude.ai
+USER-AGENT,claude*
+# > cursor
+DOMAIN-KEYWORD,cursor
+DOMAIN-SUFFIX,cursor.com
+# > azure
+DOMAIN-KEYWORD,azure
+DOMAIN-SUFFIX,azure.com
+# > trae
+DOMAIN-SUFFIX,trae.ai
 # > Other
 DOMAIN-SUFFIX,4shared.com
 DOMAIN-SUFFIX,520cc.cc
