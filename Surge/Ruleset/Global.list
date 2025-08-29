@@ -212,11 +212,11 @@ DOMAIN-SUFFIX,docker.io
 DOMAIN-SUFFIX,myanimelist.net
 # > nikan
 DOMAIN-SUFFIX,mikanani.me
-# > gork
-DOMAIN-SUFFIX,gork.com
+# > grok
+DOMAIN-SUFFIX,grok.com
 DOMAIN-SUFFIX,x.ai
-DOMAIN-KEYWORD,gork
-USER-AGENT,gork*
+DOMAIN-KEYWORD,grok
+USER-AGENT,grok*
 # > claude
 DOMAIN-KEYWORD,claude
 DOMAIN-SUFFIX,claude.ai
