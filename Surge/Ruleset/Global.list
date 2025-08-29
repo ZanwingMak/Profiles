@@ -212,23 +212,6 @@ DOMAIN-SUFFIX,docker.io
 DOMAIN-SUFFIX,myanimelist.net
 # > nikan
 DOMAIN-SUFFIX,mikanani.me
-# > grok
-DOMAIN-SUFFIX,grok.com
-DOMAIN-SUFFIX,x.ai
-DOMAIN-KEYWORD,grok
-USER-AGENT,grok*
-# > claude
-DOMAIN-KEYWORD,claude
-DOMAIN-SUFFIX,claude.ai
-USER-AGENT,claude*
-# > cursor
-DOMAIN-KEYWORD,cursor
-DOMAIN-SUFFIX,cursor.com
-# > azure
-DOMAIN-KEYWORD,azure
-DOMAIN-SUFFIX,azure.com
-# > trae
-DOMAIN-SUFFIX,trae.ai
 # > Other
 DOMAIN-SUFFIX,4shared.com
 DOMAIN-SUFFIX,520cc.cc
