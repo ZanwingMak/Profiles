@@ -1,0 +1,12 @@
+# > claude
+DOMAIN-KEYWORD,claude
+DOMAIN-SUFFIX,claude.ai
+USER-AGENT,claude*
+# > cursor
+DOMAIN-KEYWORD,cursor
+DOMAIN-SUFFIX,cursor.com
+# > azure
+DOMAIN-KEYWORD,azure
+DOMAIN-SUFFIX,azure.com
+# > trae
+DOMAIN-SUFFIX,trae.ai
