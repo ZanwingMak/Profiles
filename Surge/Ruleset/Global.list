@@ -212,6 +212,9 @@ DOMAIN-SUFFIX,docker.io
 DOMAIN-SUFFIX,myanimelist.net
 # > nikan
 DOMAIN-SUFFIX,mikanani.me
+# > missav
+DOMAIN-SUFFIX,missav.ai
+DOMAIN-KEYWORD,missav
 # > Other
 DOMAIN-SUFFIX,4shared.com
 DOMAIN-SUFFIX,520cc.cc
